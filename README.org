@@ -1,0 +1,10 @@
+* documentation-utils-extensions
+
+Set of extensions for documentation-utils
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sirherrbatka/documentation-utils-extensions.git   |
+| commit  | 517a642  |
+| systems | documentation-utils-extensions |
+|---------+-------------------------------------------|
+
